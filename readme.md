@@ -17,4 +17,4 @@ LP and DN will input information that JL populated from the initial reports.
 
 7.30.2019 - inputs 803-903
 
-7.31.2019 - inputs 904-1350
+7.31.2019 - inputs 904-1350 / DN verified up to 190
