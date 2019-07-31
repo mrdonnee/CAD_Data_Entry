@@ -16,3 +16,5 @@ LP and DN will input information that JL populated from the initial reports.
 •	LP highlight yellow case_id when data is entered, DN highlight green when verified
 
 7.30.2019 - inputs 803-903
+
+7.31.2019 - inputs 904-1350
